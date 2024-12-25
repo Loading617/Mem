@@ -1,2 +1,2 @@
 # Mem
-Vid Player for Android
+Video Player for Android
