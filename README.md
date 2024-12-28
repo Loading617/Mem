@@ -1,2 +1,2 @@
 # Mem
-Mem (Short for Memory) is Video Player for Android
+Memory is Video Player for Android
